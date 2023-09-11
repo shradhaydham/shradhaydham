@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Shradhay Dham✅</h1>
 <h3 align="center">A passionate Software developer</h3>
 
-- 🔭 I’m currently working on **🖥Virtual Software Development!**
+- 🔭 I’m currently working on **🖥 Software Development!**
 
 - 🌱 I’m currently learning **Web Dev & 🤖Machine learning**
 
