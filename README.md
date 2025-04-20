@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, This is Shradhay Dham✅</h1>
+<h1 align="center">Hi , This is Shradhay Dham</h1>
 <h3 align="center">A passionate Software developer</h3>
 
 - 🔭 I’m currently working on **🖥 Software Development!**
 
-- 🌱 I’m currently learning **Web Dev & 🤖Machine learning**
-
-- 📲 How to reach me -> **9991877777☎️**
+- 🌱 I’m currently learning **Machine learning and Artifical intelligence with GEN-Ai**
 
 - 📫 How to reach me-> **Shradhay.dham@gmail.com**
 
